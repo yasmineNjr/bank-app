@@ -1,0 +1,2 @@
+created by vite
+to run the project use "npm run dev"
